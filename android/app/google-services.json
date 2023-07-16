@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "135935935706",
+    "project_id": "find-your-lawyer-392a2",
+    "storage_bucket": "find-your-lawyer-392a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135935935706:android:7a1696b0f9d0d4708d51e3",
+        "android_client_info": {
+          "package_name": "com.example.find_your_lawyer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135935935706-9ff4ca2krnmcau7qt1h02nq45556d99b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC9JKUj6Z3FXpFDQJcS-WO-h2L3gc-Gn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135935935706-9ff4ca2krnmcau7qt1h02nq45556d99b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
